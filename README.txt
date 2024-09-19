@@ -32,3 +32,5 @@ Credits:
 		Responsive Tools (github.com/ajlkn/responsive-tools)
 git commit --allow-empty -m "Trigger rebuild"
 git push
+git commit --allow-empty -m "Trigger rebuild"
+git push
